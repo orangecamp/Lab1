@@ -5,7 +5,9 @@ description = "橙子夏令营的第一个实验，单行编程语言的实现�
 authors = [
     {name = "BigOrangeQWQ",email = "2284086963@qq.com"},
 ]
-dependencies = []
+dependencies = [
+    "pytest>=8.2.2",
+]
 requires-python = ">=3.10"
 readme = "README.md"
 license = {text = "MIT"}
